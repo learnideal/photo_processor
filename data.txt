@@ -1,0 +1,117 @@
+Key: EXIF CVAPattern, value [0, 2, 0, 2, 0, 1, 1, 2]
+Key: EXIF ColorSpace, value sRGB
+Key: EXIF ComponentsConfiguration, value YCbCr
+Key: EXIF CompressedBitsPerPixel, value 2
+Key: EXIF Contrast, value Normal
+Key: EXIF CustomRendered, value Normal
+Key: EXIF DateTimeDigitized, value 2015:12:05 11:28:52
+Key: EXIF DateTimeOriginal, value 2015:12:05 11:28:52
+Key: EXIF DigitalZoomRatio, value 1
+Key: EXIF ExifImageLength, value 2448
+Key: EXIF ExifImageWidth, value 3696
+Key: EXIF ExifVersion, value 0230
+Key: EXIF ExposureBiasValue, value 0
+Key: EXIF ExposureMode, value Auto Exposure
+Key: EXIF ExposureProgram, value Unidentified
+Key: EXIF ExposureTime, value 1/500
+Key: EXIF FNumber, value 9/2
+Key: EXIF FileSource, value Digital Camera
+Key: EXIF Flash, value Flash did not fire, auto mode
+Key: EXIF FlashPixVersion, value 0100
+Key: EXIF FocalLength, value 30
+Key: EXIF FocalLengthIn35mmFilm, value 45
+Key: EXIF GainControl, value None
+Key: EXIF ISOSpeedRatings, value 200
+Key: EXIF InteroperabilityOffset, value 38388
+Key: EXIF LightSource, value Unknown
+Key: EXIF MakerNote, value [78, 105, 107, 111, 110, 0, 2, 16, 0, 0, 77, 77, 0, 42, 0, 0, 0, 8, 0, 55, ... ]
+Key: EXIF MaxApertureValue, value 22/5
+Key: EXIF MeteringMode, value Pattern
+Key: EXIF Saturation, value Normal
+Key: EXIF SceneCaptureType, value Portrait
+Key: EXIF SceneType, value Directly Photographed
+Key: EXIF SensingMethod, value One-chip color area
+Key: EXIF SensitivityType, value Recommended Exposure Index
+Key: EXIF Sharpness, value Normal
+Key: EXIF SubSecTime, value 60
+Key: EXIF SubSecTimeDigitized, value 60
+Key: EXIF SubSecTimeOriginal, value 60
+Key: EXIF SubjectDistanceRange, value 0
+Key: EXIF UserComment, value                                     
+Key: EXIF WhiteBalance, value Auto
+Key: GPS GPSVersionID, value [2, 3, 0, 0]
+Key: Image DateTime, value 2015:12:05 11:28:52
+Key: Image ExifOffset, value 228
+Key: Image GPSInfo, value 38420
+Key: Image Make, value NIKON CORPORATION
+Key: Image Model, value NIKON D5100
+Key: Image Orientation, value Horizontal (normal)
+Key: Image ResolutionUnit, value Pixels/Inch
+Key: Image Software, value Ver.1.01 
+Key: Image XResolution, value 300
+Key: Image YCbCrPositioning, value Co-sited
+Key: Image YResolution, value 300
+Key: Interoperability InteroperabilityIndex, value R98
+Key: Interoperability InteroperabilityVersion, value [48, 49, 48, 48]
+Key: MakerNote AEBracketCompensationApplied, value 0
+Key: MakerNote AFInfo2, value [48, 49, 48, 48, 0, 8, 2, 9, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Key: MakerNote ActiveDLighting, value 65535
+Key: MakerNote AutoBracketRelease, value 1
+Key: MakerNote AutoFlashMode, value                    
+Key: MakerNote BracketingMode, value Continuous, no bracketing
+Key: MakerNote ColorBalance, value [48, 50, 49, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]
+Key: MakerNote ColorSpace, value 1
+Key: MakerNote CropHiSpeed, value [0, 4992, 3280, 4992, 3280, 0, 0]
+Key: MakerNote DigitalVariProgram, value PORTRAIT       
+Key: MakerNote ExposureDifference, value 0 EV
+Key: MakerNote ExposureTuning, value [0, 1, 6]
+Key: MakerNote ExternalFlashExposureComp, value 0 EV
+Key: MakerNote FileInfo, value [48, 49, 48, 48, 0, 0, 0, 100, 18, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]
+Key: MakerNote FlashBracketCompensationApplied, value 0 EV
+Key: MakerNote FlashCompensation, value 0 EV
+Key: MakerNote FlashInfo, value [48, 49, 48, 52, 0, 0, 0, 0, 0, 0, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Key: MakerNote FlashMode, value Did Not Fire
+Key: MakerNote FlashSetting, value NORMAL      
+Key: MakerNote FocusMode, value AF-A  
+Key: MakerNote HighISONoiseReduction, value 4
+Key: MakerNote ISOInfo, value [72, 1, 12, 0, 0, 0, 72, 1, 12, 0, 0, 0, 0, 2]
+Key: MakerNote ISOSetting, value È
+Key: MakerNote ISOSpeedRequested, value [0, 200]
+Key: MakerNote ImageDataSize, value 1926098
+Key: MakerNote LensData, value [48, 50, 48, 52, 130, 238, 77, 94, 184, 61, 72, 6, 138, 207, 152, 209, 218, 45, 79, 9, 67, 99, 124, 5, 145, 101, 95, 1, 74, 51, 205, 11, 174]
+Key: MakerNote LensFStops, value [64, 1, 12, 0]
+Key: MakerNote LensMinMaxFocalMaxAperture, value [18, 55, 7/2, 28/5]
+Key: MakerNote LensType, value 14
+Key: MakerNote MakernoteVersion, value 0210
+Key: MakerNote MultiExposure, value [48, 49, 48, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Key: MakerNote NikonPreview, value 11422
+Key: MakerNote NoiseReduction, value OFF 
+Key: MakerNote PhotoCornerCoordinates, value [0, 0, 3696, 2448]
+Key: MakerNote PictureControl, value [48, 49, 48, 48, 80, 79, 82, 84, 82, 65, 73, 84, 0, 0, 0, 0, 0, 0, 0, 0, ... ]
+Key: MakerNote PowerUpTime, value [7, 223, 12, 5, 11, 27, 14, 0]
+Key: MakerNote ProgramShift, value 0 EV
+Key: MakerNote Quality, value NORMAL 
+Key: MakerNote RetouchHistory, value [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Key: MakerNote SerialNumber, value 3679847
+Key: MakerNote ShotInfo, value []
+Key: MakerNote Tag 0x002B, value [48, 49, 48, 48, 0, 4, 1, 9, 0, 0, 0, 0, 0, 0, 0, 0]
+Key: MakerNote Tag 0x002C, value [48, 49, 48, 49, 35, 0, 1, 129, 0, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]
+Key: MakerNote Tag 0x002D, value [512, 0, 0]
+Key: MakerNote Tag 0x0032, value [48, 49, 48, 48, 0, 0, 0, 1]
+Key: MakerNote Tag 0x0035, value [48, 49, 48, 48, 0, 0, 0, 255]
+Key: MakerNote Tag 0x009D, value 0
+Key: MakerNote Tag 0x00A3, value 0
+Key: MakerNote Tag 0x00BB, value [48, 50, 48, 48, 255, 255, 255, 0]
+Key: MakerNote TotalShutterReleases, value 6195
+Key: MakerNote VRInfo, value [48, 49, 48, 48, 1, 1, 0, 0]
+Key: MakerNote WhiteBalanceBias, value [0, 0]
+Key: MakerNote WhiteBalanceRBCoeff, value [599/256, 149/128, 1, 1]
+Key: MakerNote Whitebalance, value AUTO        
+Key: MakerNote WorldTime, value [254, 212, 1, 1]
+Key: Thumbnail Compression, value JPEG (old-style)
+Key: Thumbnail JPEGInterchangeFormat, value 38548
+Key: Thumbnail JPEGInterchangeFormatLength, value 9221
+Key: Thumbnail ResolutionUnit, value Pixels/Inch
+Key: Thumbnail XResolution, value 300
+Key: Thumbnail YCbCrPositioning, value Co-sited
+Key: Thumbnail YResolution, value 300
